@@ -5,7 +5,7 @@
 💼 Atualmente trabalho como Analista de Business Intelligence, com experiência prática em:
 - 📊 Visualização de dados (Power BI, dashboards interativos)
 - 🐍 Python para análise e modelagem preditiva
-- 📦 Manipulação de dados com Pandas, SQL e APIs
+- 📦 Manipulação de dados com Pandas, SQL, APIs e automações de tarefas recorrentes
 
 ---
 
