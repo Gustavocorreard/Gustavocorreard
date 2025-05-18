@@ -16,8 +16,8 @@
 - 📌 [Segmentação de clientes com KMeans](https://github.com/Gustavocorreard/mall-customers-clustering)  
   Clusterização com storytelling de marketing e visualizações com PCA e Radar Chart.
 
-- 📌 [Previsão de leads por região com XGBoost](https://github.com/Gustavocorreard/forecasting-leads)  
-  Previsão de geração de leads por DDD para veículos 0km, com métricas e análise por canal.
+- 📌 [Previsão de preços de imóveis com XGBoost](https://github.com/Gustavocorreard/house-price-xgboost)  
+  Criação de modelo para dizer os valores de imóveis de acordo com suas características.
 
 - 📌 [Automação de relatórios com Python e SQL](https://github.com/Gustavocorreard/automacao-relatorio-leads)  
   Script que integra consultas SQL, limpeza com Pandas e envio de relatórios por e-mail.
