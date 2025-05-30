@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gustavo Correard 👋
+# Olá! Eu sou o Gustavo Correard
 
 🎯 Cientista de Dados em formação com foco em resolver problemas de negócio através de dados.
 
@@ -39,7 +39,7 @@
 Se você tiver dúvidas, ideias ou quiser trocar sobre carreira em dados:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavocorreard)
-- ✉️ gustavocorreard@gmail.com
+- ✉️ gustavomacedocorreard@gmail.com
 
 ---
 
