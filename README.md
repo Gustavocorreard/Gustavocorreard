@@ -33,6 +33,18 @@
 
 
 ---
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gustavocorreard&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Gustavo no GitHub" width="49%"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavocorreard&layout=compact&langs_count=7&theme=dark" alt="Top Langs" width="32%"/>
+  </a>
+</p>
+
+---
 
 ## 📫 Vamos conversar?
 
