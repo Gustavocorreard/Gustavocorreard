@@ -13,14 +13,17 @@
 
 🚀 **Projetos com foco em aplicação de negócio:**
 
+- 📌 [Churn Prediction – Previsão de Cancelamento](https://github.com/Gustavocorreard/churn-prediction)
+  >Prevenção de churn com machine learning e 82% de acurácia.
+  
 - 📌 [Segmentação de clientes com KMeans](https://github.com/Gustavocorreard/mall-customers-clustering)  
-  Clusterização com storytelling de marketing e visualizações com PCA e Radar Chart.
+  >Clusterização com storytelling de marketing e visualizações com PCA e Radar Chart.
 
 - 📌 [Previsão de preços de imóveis com XGBoost](https://github.com/Gustavocorreard/house-price-xgboost)  
-  Criação de modelo para dizer os valores de imóveis de acordo com suas características.
+  >Criação de modelo para dizer os valores de imóveis de acordo com suas características.
 
 - 📌 [Automação de relatórios com Python e SQL](https://github.com/Gustavocorreard/automacao-relatorio-leads)  
-  Script que integra consultas SQL, limpeza com Pandas e envio de relatórios por e-mail.
+  >Script que integra consultas SQL, limpeza com Pandas e envio de relatórios por e-mail.
 
 ---
 
