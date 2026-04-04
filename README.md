@@ -13,6 +13,9 @@
 
 🚀 **Projetos com foco em aplicação de negócio:**
 
+- 📌 [Churn IA Agent](https://github.com/Gustavocorreard/churn-ai-agent)
+  >App que auxilia na tomada de decisão prevendo churn e apresentando recomendações personalizadas.
+
 - 📌 [Churn Prediction – Previsão de Cancelamento](https://github.com/Gustavocorreard/churn-prediction)
   >Prevenção de churn com machine learning e 82% de acurácia.
   
