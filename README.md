@@ -1,8 +1,8 @@
 # Olá! Eu sou o Gustavo Correard
 
-🎯 Cientista de Dados em formação com foco em resolver problemas de negócio através de dados.
+🎯 Analista de dados com foco em resolver problemas de negócio através de dados.
 
-💼 Atualmente trabalho como Analista de Business Intelligence, com experiência prática em:
+💼 Atualmente trabalho como Analista de Dados Pleno no Grupo Olx, com experiência prática em:
 - 📊 Visualização de dados (Power BI, dashboards interativos)
 - 🐍 Python para análise e modelagem preditiva
 - 📦 Manipulação de dados com Pandas, SQL, APIs e automações de tarefas recorrentes
