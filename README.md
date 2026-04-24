@@ -15,9 +15,6 @@
 
 - 📌 [Churn IA Agent](https://github.com/Gustavocorreard/churn-ai-agent)
   >App que auxilia na tomada de decisão prevendo churn e apresentando recomendações personalizadas.
-
-- 📌 [Churn Prediction – Previsão de Cancelamento](https://github.com/Gustavocorreard/churn-prediction)
-  >Prevenção de churn com machine learning e 82% de acurácia.
   
 - 📌 [Segmentação de clientes com KMeans](https://github.com/Gustavocorreard/mall-customers-clustering)  
   >Clusterização com storytelling de marketing e visualizações com PCA e Radar Chart.
