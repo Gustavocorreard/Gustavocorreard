@@ -1,41 +1,70 @@
-# Gustavo Correard
+<p align="center">
+  <img src="assets/perfil-banner.svg" width="100%" alt="Gustavo Correard. Experiência em analytics e objetivo de atuar como Cientista de Dados Júnior, remoto." />
+</p>
 
-**Analista de Dados | Em busca de uma oportunidade como Cientista de Dados Júnior — remoto**
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-correard/"><strong>LinkedIn</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:gustavomacedocorreard@gmail.com"><strong>Contato por e-mail</strong></a>
+  &nbsp; · &nbsp;
+  <a href="#projetos-selecionados"><strong>Conheça os projetos</strong></a>
+</p>
 
-Tenho mais de quatro anos de experiência em analytics, com passagens por OLX, C&A, Nitro Química e BR Media. Trabalho com Python, SQL, automação de análises e comunicação de resultados para áreas de negócio.
+## Experiência em dados, próximo passo em ciência de dados
 
-Quero levar essa experiência para uma posição de **Cientista de Dados Júnior**, contribuindo com preparação de dados, análise exploratória e desenvolvimento de modelos, enquanto aprofundo minha prática em estatística e validação.
+Sou **Analista de Dados**, com mais de quatro anos de experiência em marketplace, varejo e indústria. Busco uma oportunidade **remota de Cientista de Dados Júnior** para contribuir com preparação de dados, análise exploratória e desenvolvimento de modelos.
 
-## Projetos de ciência de dados
+Minha experiência em analytics me ajuda a conectar o problema técnico à decisão de negócio: entender a demanda, preparar os dados e apresentar resultados de forma útil para o time.
 
-| Projeto | Problema | Evidências no repositório |
-| --- | --- | --- |
-| [Previsão de churn](https://github.com/Gustavocorreard/churn-ai-agent) | Identificar clientes com risco de cancelamento. | Comparação entre regressão logística e Random Forest, precisão e recall, análise de limiares, SHAP e aplicação Streamlit. |
-| [Segmentação de clientes](https://github.com/Gustavocorreard/mall-customers-clustering) | Explorar perfis de clientes para formular hipóteses de marketing. | K-Means, padronização, comparação de silhouette, seis clusters e visualização com PCA. |
-| [Previsão de preços de imóveis](https://github.com/Gustavocorreard/house-price-xgboost) | Estimar preços a partir de características dos imóveis. | XGBoost, análise exploratória e avaliação com MAE, RMSE e R². |
+| Experiência | Entrega profissional | Contexto de negócio |
+| :--- | :--- | :--- |
+| **4+ anos em dados** | **~35h/mês de trabalho manual reduzidas** | **Marketplace, varejo e indústria** |
+| OLX, C&A, Nitro Química e BR Media | Automação de pipelines com Python e SQL na OLX | Comercial, marketing e estoque |
 
-Os READMEs explicam o método, as saídas registradas, a execução e as limitações dos estudos. São projetos de portfólio; impacto comercial não foi medido.
+## Projetos selecionados
 
-## Experiência relevante
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/Gustavocorreard/churn-ai-agent"><img src="assets/projeto-churn.svg" width="100%" alt="Risco de churn: classificação, análise de limiares, SHAP e Streamlit." /></a>
+<p>Identificar clientes com risco de cancelamento e discutir a priorização de contatos.</p>
+<a href="https://github.com/Gustavocorreard/churn-ai-agent"><strong>Explorar o projeto de churn ↗</strong></a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Gustavocorreard/mall-customers-clustering"><img src="assets/projeto-segmentacao.svg" width="100%" alt="Perfis de clientes: K-Means, seis clusters, silhouette e PCA." /></a>
+<p>Explorar perfis de clientes e formular hipóteses para ações de marketing.</p>
+<a href="https://github.com/Gustavocorreard/mall-customers-clustering"><strong>Explorar a segmentação ↗</strong></a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Gustavocorreard/house-price-xgboost"><img src="assets/projeto-imoveis.svg" width="100%" alt="Preços de imóveis: XGBoost, MAE, RMSE, R² e análise das limitações." /></a>
+<p>Estimar preços de imóveis e interpretar os erros e limites da avaliação.</p>
+<a href="https://github.com/Gustavocorreard/house-price-xgboost"><strong>Explorar a regressão ↗</strong></a>
+</td>
+</tr>
+</table>
 
-- **Python e SQL:** preparação de dados, análises comerciais e automação de pipelines na OLX, com redução de aproximadamente 35 horas mensais de trabalho manual.
-- **Contexto de negócio:** experiência com marketplace, planejamento comercial, marketing e estoque.
-- **Comunicação:** dashboards e apresentações de resultados para stakeholders e lideranças.
+Cada repositório documenta **método, resultados registrados, execução e limitações**. São estudos de portfólio; impacto comercial não foi medido.
 
-## Ferramentas
+## Ferramentas que fazem parte do meu trabalho e estudos
 
-**Análise:** Python, SQL, pandas e NumPy.  
-**Projetos de ML:** scikit-learn, XGBoost, K-Means e SHAP.  
-**Visualização e desenvolvimento:** Power BI, Tableau, Looker Studio, Git, Jupyter e Streamlit.
+| Análise e preparação | Machine learning nos projetos | Comunicação e desenvolvimento |
+| :--- | :--- | :--- |
+| Python · SQL · pandas · NumPy | scikit-learn · XGBoost · K-Means · SHAP | Power BI · Tableau · Looker Studio |
+| Trino · Teradata · BigQuery/GCP | Experiência com previsão de leads usando Prophet | Git · Jupyter · Streamlit |
 
-## Formação e estudos
+## O que estou aprofundando
 
-Engenheiro de Produção pelo UNISAL, com pós-graduação em Ciência de Dados e Inteligência Artificial em andamento na Universidade São Judas Tadeu.
+**Estatística aplicada → validação de modelos → experimentação → operação de modelos**
 
-Atualmente aprofundo **probabilidade, amostragem, testes de hipóteses e validação de modelos**, aplicando os estudos na evolução dos projetos.
+Meu foco atual está em probabilidade, amostragem, testes de hipóteses e avaliação sem vazamento de dados. Aplico os estudos na evolução dos projetos e uso LLMs como apoio para estudar e revisar código, verificando as decisões e os resultados na execução.
 
-## Contato
+**Formação:** Engenharia de Produção pelo UNISAL e pós-graduação em Ciência de Dados e Inteligência Artificial em andamento na Universidade São Judas Tadeu.
 
-Disponível para conversar sobre oportunidades **remotas de Cientista de Dados Júnior**.
+---
 
-[LinkedIn](https://www.linkedin.com/in/gustavo-correard/) · [E-mail](mailto:gustavomacedocorreard@gmail.com)
+<p align="center">
+  <strong>Vamos conversar sobre uma oportunidade de Cientista de Dados Júnior?</strong><br />
+  Interesse em times remotos de marketplaces, varejo, CRM e analytics comercial.<br /><br />
+  <a href="https://www.linkedin.com/in/gustavo-correard/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:gustavomacedocorreard@gmail.com">gustavomacedocorreard@gmail.com</a>
+</p>
