@@ -45,12 +45,39 @@ Minha experiência em analytics me ajuda a conectar o problema técnico à decis
 
 Cada repositório documenta **método, resultados registrados, execução e limitações**. São estudos de portfólio; impacto comercial não foi medido.
 
-## Ferramentas que fazem parte do meu trabalho e estudos
+## Stack
 
-| Análise e preparação | Machine learning nos projetos | Comunicação e desenvolvimento |
-| :--- | :--- | :--- |
-| Python · SQL · pandas · NumPy | scikit-learn · XGBoost · K-Means · SHAP | Power BI · Tableau · Looker Studio |
-| Trino · Teradata · BigQuery/GCP | Experiência com previsão de leads usando Prophet | Git · Jupyter · Streamlit |
+**Análise, dados e automação**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" height="28" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-315A88?style=flat-square" height="28" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" height="28" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&amp;logo=numpy&amp;logoColor=white" height="28" />
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&amp;logo=googlebigquery&amp;logoColor=white" height="28" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-3459A1?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" height="28" />
+</p>
+
+**Visualização e colaboração**
+
+<p>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-B88B00?style=flat-square" height="28" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-365A7C?style=flat-square" height="28" />
+  <img alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&amp;logo=looker&amp;logoColor=white" height="28" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-D65038?style=flat-square&amp;logo=git&amp;logoColor=white" height="28" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-D46C22?style=flat-square&amp;logo=jupyter&amp;logoColor=white" height="28" />
+</p>
+
+**Machine learning nos projetos de portfólio**
+
+<p>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-D88424?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" height="28" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-315A88?style=flat-square" height="28" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-D34B57?style=flat-square&amp;logo=streamlit&amp;logoColor=white" height="28" />
+  <img alt="SHAP" src="https://img.shields.io/badge/SHAP-6D5BA6?style=flat-square" height="28" />
+</p>
+
+No trabalho, utilizo Python e SQL para análises e pipelines, além de ferramentas de BI e BigQuery/GCP. Nos projetos de portfólio, aplico classificação, regressão, clusterização e explicabilidade. Também tenho experiência com Trino, Teradata e previsão de leads usando Prophet.
 
 ## O que estou aprofundando
 
