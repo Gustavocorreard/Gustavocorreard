@@ -10,9 +10,9 @@
   <a href="#projetos-selecionados"><strong>Conheça os projetos</strong></a>
 </p>
 
-## Experiência em dados, próximo passo em ciência de dados
+## Experiência em dados:
 
-Sou **Analista de Dados**, com mais de quatro anos de experiência em marketplace, varejo e indústria. Busco uma oportunidade **remota de Cientista de Dados Júnior** para contribuir com preparação de dados, análise exploratória e desenvolvimento de modelos.
+Sou **Analista de Dados**, com 4+ anos de experiência em marketplace, varejo e indústria. Busco uma oportunidade **Cientista de Dados Júnior** para contribuir com preparação de dados, análise exploratória e desenvolvimento de modelos.
 
 Minha experiência em analytics me ajuda a conectar o problema técnico à decisão de negócio: entender a demanda, preparar os dados e apresentar resultados de forma útil para o time.
 
@@ -90,8 +90,8 @@ Meu foco atual está em probabilidade, amostragem, testes de hipóteses e avalia
 ---
 
 <p align="center">
-  <strong>Vamos conversar sobre uma oportunidade de Cientista de Dados Júnior?</strong><br />
-  Interesse em times remotos de marketplaces, varejo, CRM e analytics comercial.<br /><br />
+  <strong>Vamos conversar?</strong><br />
+  Os meus contatos estão abaixo, obrigado por visitar o perfil.<br /><br />
   <a href="https://www.linkedin.com/in/gustavo-correard/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="mailto:gustavomacedocorreard@gmail.com">gustavomacedocorreard@gmail.com</a>
 </p>
