@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Gustavo Correard — Ciência de Dados</title><desc id="desc">Experiência em analytics. Objetivo: Cientista de Dados Júnior, remoto. Python, SQL e machine learning.</desc>
+<rect width="1200" height="320" rx="20" fill="#101722"/>
+<rect x="0" y="0" width="9" height="320" fill="#4169e1"/>
+<g font-family="Inter, Arial, sans-serif"><text x="56" y="63" fill="#91adff" font-size="16" letter-spacing="2">DADOS · NEGÓCIO · APRENDIZADO</text>
+<text x="52" y="131" fill="#f0f3fa" font-size="54" font-weight="600">Gustavo Correard</text>
+<text x="56" y="177" fill="#b4c0d5" font-size="23">Experiência em analytics. Evolução em ciência de dados.</text>
+<rect x="56" y="212" width="464" height="45" rx="8" fill="#243c78"/><text x="76" y="241" fill="#ffffff" font-size="18">Objetivo: Cientista de Dados Júnior · Remoto</text>
+<text x="56" y="292" fill="#91a0ba" font-size="15">Python / SQL / Machine learning / Contexto de negócio</text></g>
+<g transform="translate(910 72)" fill="none"><path d="M0 170H225M0 115H225M0 60H225M0 5H225" stroke="#253147"/><path d="M12 152L56 124L100 140L144 76L188 95L225 25" stroke="#6287ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g fill="#101722" stroke="#a9bdff" stroke-width="3"><circle cx="12" cy="152" r="6"/><circle cx="56" cy="124" r="6"/><circle cx="100" cy="140" r="6"/><circle cx="144" cy="76" r="6"/><circle cx="188" cy="95" r="6"/><circle cx="225" cy="25" r="6"/></g></g></svg>
