@@ -1,61 +1,56 @@
-# Olá! Eu sou o Gustavo Correard
+# Gustavo Correard
 
-🎯 Analista de dados com foco em resolver problemas de negócio através de dados.
+**Analytics, ciência de dados e decisões de negócio.**
 
-💼 Atualmente trabalho como Analista de Dados Pleno no Grupo Olx, com experiência prática em:
-- 📊 Visualização de dados (Power BI, dashboards interativos)
-- 🐍 Python para análise e modelagem preditiva
-- 📦 Manipulação de dados com Pandas, SQL, APIs e automações de tarefas recorrentes
+Sou profissional de dados com mais de quatro anos de experiência em marketplace, varejo e indústria, com atuação na OLX, C&A, Nitro Química e BR Media. Minha formação em Engenharia de Produção me aproxima dos problemas de operação, eficiência e resultado comercial.
 
----
+Na OLX, trabalho com Python e SQL em análises comerciais, preparação de dados e automação de pipelines. Entre as entregas estão a redução de aproximadamente 35 horas mensais de trabalho manual e iniciativas de previsão de leads e segmentação.
 
-## 💡 Destaques do meu portfólio
+Meu próximo passo é uma posição de **cientista de dados em um time remoto**, com foco em problemas de retenção, comportamento de clientes e previsão de demanda. Estou aprofundando estatística aplicada, experimentação, validação de modelos e práticas de MLOps para conectar minha experiência em analytics a soluções preditivas com avaliação e acompanhamento.
 
-🚀 **Projetos com foco em aplicação de negócio:**
+## Experiência que levo para ciência de dados
 
-- 📌 [Churn IA Agent](https://github.com/Gustavocorreard/churn-ai-agent)
-  >App que auxilia na tomada de decisão prevendo churn e apresentando recomendações personalizadas.
-  
-- 📌 [Segmentação de clientes com KMeans](https://github.com/Gustavocorreard/mall-customers-clustering)  
-  >Clusterização com storytelling de marketing e visualizações com PCA e Radar Chart.
+- **Contexto de negócio:** definição de métricas e análises para decisões comerciais, de marketing e de estoque.
+- **Preparação e automação:** Python, pandas e SQL para transformar dados e reduzir tarefas recorrentes.
+- **Comunicação:** dashboards e apresentações para stakeholders, com explicação dos resultados e de suas limitações.
+- **Modelagem aplicada:** experiência com previsão de leads usando Prophet e segmentação com K-Means, complementada pelos estudos de portfólio abaixo.
 
-- 📌 [Previsão de preços de imóveis com XGBoost](https://github.com/Gustavocorreard/house-price-xgboost)  
-  >Criação de modelo para dizer os valores de imóveis de acordo com suas características.
+## Projetos selecionados
 
-- 📌 [Automação de relatórios com Python e SQL](https://github.com/Gustavocorreard/automacao-relatorio-leads)  
-  >Script que integra consultas SQL, limpeza com Pandas e envio de relatórios por e-mail.
+Os repositórios documentam o método, as saídas registradas, as instruções de execução e as limitações de cada estudo.
 
----
+| Projeto | Pergunta e abordagem | O que você encontra |
+| --- | --- | --- |
+| [Previsão de churn](https://github.com/Gustavocorreard/churn-ai-agent) | Como identificar clientes com risco de cancelamento? Comparação entre regressão logística e Random Forest. | Avaliação de classificação, análise de limiares, SHAP e interface Streamlit para consulta e exportação. |
+| [Segmentação de clientes](https://github.com/Gustavocorreard/mall-customers-clustering) | Quais perfis aparecem na base? K-Means sobre atributos padronizados de 200 clientes. | Comparação de silhouette, seis clusters e visualização com PCA; hipóteses de marketing a validar. |
+| [Previsão de preços de imóveis](https://github.com/Gustavocorreard/house-price-xgboost) | Como estimar preços a partir das características dos imóveis? Regressão com XGBoost. | Análise exploratória, MAE, RMSE e R², com documentação dos limites do pré-processamento e da avaliação. |
 
-## 📚 Tecnologias que utilizo
+São projetos de portfólio. Seus resultados não representam impacto comercial medido nem garantem desempenho em outra base ou operação.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=plotly&logoColor=white"/>
+## Ferramentas e conhecimentos
 
+- **Análise e dados:** Python, pandas, NumPy, SQL, Trino, Teradata e BigQuery/GCP.
+- **Modelagem nos estudos e projetos:** scikit-learn, XGBoost, Prophet, K-Means e SHAP.
+- **Visualização:** Power BI, Tableau, Looker Studio, Matplotlib e Seaborn.
+- **Desenvolvimento:** Git, Jupyter e Streamlit.
 
----
-## 📊 Minhas Estatísticas no GitHub
+## Desenvolvimento atual
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gustavocorreard&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Gustavo no GitHub" width="49%"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavocorreard&layout=compact&langs_count=7&theme=dark" alt="Top Langs" width="32%"/>
-  </a>
-</p>
+Estou seguindo um plano de estudos com cursos da Alura e prática nos projetos, priorizando:
 
----
+- Probabilidade, amostragem, inferência e testes de hipóteses.
+- Validação sem vazamento de dados e escolha de métricas conforme a decisão de negócio.
+- Forecasting com baselines e avaliação temporal.
+- Reprodução de experimentos, deploy e monitoramento de modelos.
 
-## 📫 Vamos conversar?
+Uso LLMs como apoio para estudar, revisar código e simular entrevistas. As decisões e os resultados precisam ser explicados e verificados na execução.
 
-Se você tiver dúvidas, ideias ou quiser trocar sobre carreira em dados:
+## Formação
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavocorreard)
-- ✉️ gustavomacedocorreard@gmail.com
+Engenharia de Produção pelo UNISAL e pós-graduação em Ciência de Dados e Inteligência Artificial em andamento na Universidade São Judas Tadeu.
 
----
+## Contato
 
-*Obrigado por visitar meu portfólio! 🚀*
+Busco oportunidades remotas em ciência de dados, especialmente em marketplaces, varejo, CRM e analytics comercial.
+
+[LinkedIn](https://www.linkedin.com/in/gustavo-correard/) · [E-mail](mailto:gustavomacedocorreard@gmail.com)
